@@ -1,11 +1,11 @@
 # Tech Stack
 Languages   Javascript(ES6+), HTML, CSS(SCSS)
 
-Front-End    React(hooks), Redux, styled-components
+Front-End    React, Redux, styled-components
 
-Back-End     Node.js, Express, MySQL, Sequeilize
+Back-End     NodeJS, Express, MySQL, Sequeilize
 
-Others     Git
+Others     Git, AWS(EC2, S3, RDS), Docker
 
 <!---
 - 👋 Hi, I’m @James940522
