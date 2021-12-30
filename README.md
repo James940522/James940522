@@ -1,4 +1,4 @@
-# Tech Stack
+# Tech Stack hammer_and_wrench
 Languages   Javascript(ES6+), HTML, CSS(SCSS)
 
 Front-End    React, Redux, Styled-Components
