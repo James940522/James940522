@@ -5,7 +5,7 @@ Front-End    React, Redux, Styled-Components
 
 Back-End     NodeJS, Express, MySQL, Sequeilize
 
-Others     Git, AWS(EC2, S3, RDS), Docker
+Others     Git, AWS(EC2, S3, RDS)
 
 <!---
 - 👋 Hi, I’m @James940522
