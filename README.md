@@ -1,7 +1,7 @@
 # Tech Stack 🛠️
-Languages   Javascript(ES6+), HTML, CSS(SCSS)
+Languages   Javascript(ES6+), Typescript 
 
-Front-End    React, Redux, Styled-Components
+Front-End    HTML, CSS(SCSS), React, Redux Toolkit, Styled-Components
 
 Back-End     NodeJS, Express, MySQL, Sequeilize
 
