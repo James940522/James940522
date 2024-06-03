@@ -1,7 +1,7 @@
 # Tech Stack 🛠️
 Languages   Javascript(ES6+), Typescript 
 
-Front-End    React, Tailwind Css, Zustand, Redux Toolkit, React-query
+Front-End    React, Tailwind CSS, Zustand, Redux Toolkit, React-query
 
 Back-End     NodeJS, Express, MySQL, Sequeilize
 
